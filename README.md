@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ez4zzw&show_icons=true)](https://github.com/ez4zzw)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez4zzw&layout=compact&hide=html,css,java,javascript)](https://github.com/ez4zzw)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ez4zzw&layout=compact)](https://github.com/ez4zzw)
