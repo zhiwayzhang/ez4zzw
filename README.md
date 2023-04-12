@@ -10,7 +10,3 @@ Here are some ideas to get you started:
 - 📖 I’m currently learning Non-Volatile Memory
 - 💬 Ask me about OS,Golang,Storage
 -->
-
-[![zhiwayzhang's github stats](https://github-readme-stats.vercel.app/api?username=zhiwayzhang&show_icons=true)](https://github.com/zhiwayzhang)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhiwayzhang&hide=html,css,Jupyter%20Notebook&layout=compact)](https://github.com/zhiwayzhang)
